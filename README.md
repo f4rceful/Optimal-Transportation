@@ -2,11 +2,11 @@
 
 ## 🔎 Problem Overview / Обзор задачи
 
-This project solves the **Minimum Cost Flow Problem** using the **Successive Shortest Path (SSP)** algorithm with Dijkstra and potentials. The goal is to efficiently transport identical products from suppliers to consumers, minimizing the total cost. [link to the issue](https://www.codewars.com/kata/5e90f0544af7f400102675ca/train/python)
+This project solves the **Minimum Cost Flow Problem** using the **Successive Shortest Path (SSP)** algorithm with Dijkstra and potentials. The goal is to efficiently transport identical products from suppliers to consumers, minimizing the total cost. [Link to the issue](https://www.codewars.com/kata/5e90f0544af7f400102675ca)
 
 ---
 
-Проект решает задачу **минимального стоимостного потока** (задача о транспорте) алгоритмом **Successive Shortest Path** с применением Dijkstra и потенциалов. Цель — доставить товар от поставщиков к потребителям минимальной стоимостью. [Ссылка на задачу](https://www.codewars.com/kata/5e90f0544af7f400102675ca/train/python)
+Проект решает задачу **минимального стоимостного потока** (задача о транспорте) алгоритмом **Successive Shortest Path** с применением Dijkstra и потенциалов. Цель — доставить товар от поставщиков к потребителям минимальной стоимостью. [Ссылка на задачу](https://www.codewars.com/kata/5e90f0544af7f400102675ca)
 
 ---
 
